@@ -10,5 +10,4 @@ for _ in range(ns):
     operation += "(" + S + ")"
     eval("A." + operation)
 
-print
-sum(A)
+print sum(A)
